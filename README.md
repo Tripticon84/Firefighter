@@ -13,4 +13,4 @@ Infos of the sensors will be displayed on the website.
 
 ## Ressources
 
-[gpiozero](https://gpiozero.readthedocs.io/en/stable/index.html)
+
